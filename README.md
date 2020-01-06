@@ -44,6 +44,10 @@
   </a> -->
 <!-- </p> -->
 
+## State 
+✅
+❌
+
 ## Goals
 * ⌚️ Get up as 6´ Clock
 * 💪 Practice exercises 
@@ -55,30 +59,7 @@
 * 🍕 Eat without drinking
 * :octocat: Contribute to github
 
-## State 
-✅
-❌
+## [📆 January](./months/january.md)
 
-## 📆 January
-- Week 1
-  - 1
-  - 2
-  - 3
-
-- Week 2
-  - 1
-  - 2
-  - 3
-
-- Week 3
-  - 1
-  - 2
-  - 3
-
-- Week 4
-  - 1
-  - 2
-  - 3
-  
 <!-- ## License
 *   [MIT](./LICENSE) &copy; Mir Carvalho -->
