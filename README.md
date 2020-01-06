@@ -1,4 +1,4 @@
-# Log
+# 🏴‍☠ Log
 
 <!-- Translate -->
 <!-- <a href="./README-pt-br.md">
@@ -45,11 +45,20 @@
 <!-- </p> -->
 
 ## Goals
-* 1
-* 2
-* 3
+* ⌚️ Get up as 6´ Clock
+* 💪 Practice exercises 
+* 📉 Study investiment
+* 💻 Study technology
+* ✏️ Write an article or post
+* 🎧 Listen to music
+* 📖 Read book or article 
+* 🍕 Eat without drinking
+* :octocat: Contribute to github
 
-## January
+## State 
+✅
+❌
+## 📆 January
 - Week 1
   - 1
   - 2
