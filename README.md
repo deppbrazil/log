@@ -45,21 +45,30 @@
 <!-- </p> -->
 
 ## State 
-✅
-❌
+✅ ❌
 
 ## Goals
-* ⌚️ Get up as 6´ Clock
+* ⏰ Get up as 6 o’clock a.m
+* 🙏 5" minutes of meditation
 * 💪 Practice exercises 
-* 📉 Study investiment
-* 💻 Study technology
+* 📊 Study investiment
+* 📱 Study technology
 * ✏️ Write an article or post
 * 🎧 Listen to music
-* 📖 Read book or article 
-* 🍕 Eat without drinking
-* :octocat: Contribute to github
+* 🎙 Listen to podcast
+* 🖌 Drawing
+* 📕 Read book
+* 📃 Read article 
+* 🍕 Eating without drinking
+* 🍎 Eating a fruit
+* 💧 Drinking 2L of water per day
+* 💰 Lay aside R$10 per day
+* :octocat: Contribute to Github
 
-## [📆 January](./2020/january.md)
+## [📅 January](./2020/january.md)
+
+## Emojis
+* [Empjipedia](http://emojipedia.com.br/)
 
 <!-- ## License
 *   [MIT](./LICENSE) &copy; Mir Carvalho -->
