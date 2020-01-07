@@ -71,5 +71,5 @@
 ## Emojis
 * [Empjipedia](http://emojipedia.com.br/)
 
-<!-- ## License
-*   [MIT](./LICENSE) &copy; Mir Carvalho -->
+## License
+*   [MIT](./LICENSE) &copy; Mir Carvalho
