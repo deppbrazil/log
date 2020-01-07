@@ -25,11 +25,12 @@
 - 🚩 **Monday** - 06/01/2020
   - ⏰ Get up as 6 o’clock a.m = ❌
   - 🙏 5" minutes of meditation = ❌
-  - 💪 Practice exercises = ✅
-  - 📊 Study investiment ✅
-  - 📱 Study technology = ✅
+  - 💪 Practice exercises = ✅ `Soccer`
+  - 📊 Study investiment = ❌
+  - 📱 Study technology = ❌
+  - 🌎 Study english = ❌
   - ✏️ Write an article or post = ❌
-  - 🎧 Listen to music ✅
+  - 🎧 Listen to music = ✅ `Jack Johnson`
   - 🎙 Listen to podcast = ❌
   - 🖌 Drawing = ❌
   - 📕 Read book = ❌
