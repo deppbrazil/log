@@ -59,7 +59,7 @@
 * 🍕 Eat without drinking
 * :octocat: Contribute to github
 
-## [📆 January](./months/january.md)
+## [📆 January](./2020/january.md)
 
 <!-- ## License
 *   [MIT](./LICENSE) &copy; Mir Carvalho -->
