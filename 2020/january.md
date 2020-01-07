@@ -3,7 +3,7 @@
 ## State 
 ✅ ❌
 
-## 📌 Week 2
+## 📌 Week 1
   
 - 🚩 `Wednesday` - 01/01/2020
   - Trip 🌅
