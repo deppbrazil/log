@@ -8,7 +8,7 @@
 <!-- Banner -->
 <!-- <p align="center">
   <a href="" target="_blank" >
-    <img alt="" src="./.github/assets/brand.jpg" width="300" />
+    <img alt="" src="" width="300" />
   </a>
 </p> -->
 
@@ -55,6 +55,7 @@
 * 💪 Practice exercises 
 * 📊 Study investiment
 * 📱 Study technology
+* 🌎 Study english
 * ✏️ Write an article or post
 * 🎧 Listen to music
 * 🎙 Listen to podcast
