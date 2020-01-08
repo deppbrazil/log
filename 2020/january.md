@@ -35,7 +35,7 @@
   - 🖌 Drawing = ❌
   - 📕 Read book = ❌
   - 📃 Read article = ❌
-  - 🍕 Eating without drinking = ❌
+  - 🍕 Lunch without drinking = ❌
   - 🍎 Eating a fruit = ✅
   - 💧 Drinking 2L of water per day = ❌
   - 💰 Lay aside R$10 per day = ✅
