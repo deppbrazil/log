@@ -1,5 +1,7 @@
 # 🏴‍☠ Log
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/98f249bec44d4608a213f082590ceebb)](https://app.codacy.com/manual/deppbrazil/log?utm_source=github.com&utm_medium=referral&utm_content=deppbrazil/log&utm_campaign=Badge_Grade_Dashboard)
+
 <!-- Translate -->
 <!-- <a href="./README-pt-br.md">
   <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-blue.svg">
