@@ -45,9 +45,10 @@
 <!-- </p> -->
 
 ## [📅 January](./2020/january.md)
-* [Week1](./2020/january.md#-week-1)
-* [Week2](./2020/january.md#-week-2)
-* [Week3](./2020/january.md#-week-3)
+* [Week1](./2020/january/week1.md)
+* [Week2](./2020/january/week2.md)
+* [Week3](./2020/january/week3.md)
+* [Week4](./2020/january/week4.md)
 
 ## State 
 ✅ ❌
