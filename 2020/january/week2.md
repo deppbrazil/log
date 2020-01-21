@@ -8,7 +8,7 @@
 - 🚩 **Monday** - 06/01/2020
   - ⏰ Get up as 6 o’clock a.m = ❌
   - 🙏 5" minutes of meditation = ❌
-  - 💪 Practice exercises = ✅ `Soccer`
+  - 💪 Practice exercises = ✅
   - 📊 Study investiment = ❌
   - 📱 Study technology = ❌
   - 🌎 Study english = ❌
