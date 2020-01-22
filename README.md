@@ -13,11 +13,11 @@
 </p> -->
 
 <!-- First badges -->
-<!-- <p align="center"> -->
+<p align="center">
   <!-- Codacy -->
-  <!-- <a href="https://www.codacy.com/manual/deppbrazil/repository-patterns?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deppbrazil/repository-patterns&amp;utm_campaign=Badge_Grade">
-    <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/61cb2455f6ab4d809986f7d995623c3d"/>
-  </a> -->
+  <a href="https://www.codacy.com/manual/deppbrazil/log?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deppbrazil/log&amp;utm_campaign=Badge_Grade">
+    <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/c006e02f4f684b90b84417985a85a4f7"/>
+  </a>
   <!-- Last commit -->
   <!-- <a href="https://github.com/deppbrazil/repository-patterns/commits/master">
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/repository-patterns.svg">
