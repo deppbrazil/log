@@ -49,6 +49,7 @@
 * [Week2](./2020/january/week2.md)
 * [Week3](./2020/january/week3.md)
 * [Week4](./2020/january/week4.md)
+* [Week5](./2020/january/week5.md)
 
 ## State 
 ✅ ❌
