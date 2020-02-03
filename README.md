@@ -89,7 +89,7 @@
 
 ## [📅 February](./2020/february)
 
--   [Week1](./2020/february/week1.md) `📌Current`
+-   [Week1](./2020/february/week1.md) `📍Current`
 
 ## Emojis
 
