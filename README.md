@@ -55,18 +55,6 @@
 
 <!-- </p> -->
 
-## [📅 January](./2020/january)
-
--   [Week1](./2020/january/week1.md)
--   [Week2](./2020/january/week2.md)
--   [Week3](./2020/january/week3.md)
--   [Week4](./2020/january/week4.md)
--   [Week5](./2020/january/week5.md)
-
-## [📅 February](./2020/february)
-
--   [Week1](./2020/february/week1.md)
-
 ## State
 
 ✅ ❌
@@ -90,6 +78,18 @@
 -   💧 Drinking 2L of water per day
 -   💰 Lay aside R$10 per day
 -   :octocat: Contribute to Github
+
+## [📅 January](./2020/january)
+
+-   [Week1](./2020/january/week1.md)
+-   [Week2](./2020/january/week2.md)
+-   [Week3](./2020/january/week3.md)
+-   [Week4](./2020/january/week4.md)
+-   [Week5](./2020/january/week5.md)
+
+## [📅 February](./2020/february)
+
+-   [Week1](./2020/february/week1.md) `📌Current`
 
 ## Emojis
 
