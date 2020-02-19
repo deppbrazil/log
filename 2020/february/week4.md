@@ -45,16 +45,16 @@
     -   :octocat: Contribute to Github = ❌
 
 -   🚩 **Wednesday** - 19/02/2020
-    -   
+    -
 
 -   🚩 **Thursday** - 20/02/2020
-    -   
+    -
 
 -   🚩 **Friday** - 21/02/2020
-    -   
+    -
 
 -   🚩 **Saturday** - 22/02/2020
-    -   
+    -
 
 -   🚩 **Sunday** - 23/02/2020
-    -   
+    -
