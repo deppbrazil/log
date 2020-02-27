@@ -1,4 +1,4 @@
-# 🏴‍☠ Log
+# 🏴‍☠ Registro
 
 <!-- Traduzir -->
 <a href="./README.md">
