@@ -1,9 +1,9 @@
 # 🏴‍☠ Log
 
 <!-- Translate -->
-<!-- <a href="./README-pt-br.md">
-  <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-blue.svg">
-</a> -->
+<a href="./README-pt-br.md">
+  <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-black.svg">
+</a>
 
 <!-- Banner -->
 <p align="center">
