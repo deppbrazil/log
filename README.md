@@ -8,11 +8,11 @@
 
 <!-- Banner -->
 
-<!-- <p align="center">
-  <a id="home" href="" target="_blank" >
-    <img alt="" src="" width="300" />
+<p align="center">
+  <a id="home" href="https://github.com/deppbrazil/log" target="_blank" >
+    <img alt="Banner Skull Flag" src="./.github/assets/banner-pirate.svg" width="100%"/>
   </a>
-</p> -->
+</p>
 
 <!-- First badges -->
 
