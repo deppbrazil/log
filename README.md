@@ -20,11 +20,11 @@
   </a>
   <!-- Last commit -->
   <a href="https://github.com/deppbrazil/log/commits/master">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/log.svg">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/log.svg?color=black">
   </a>
   <!-- Repo size -->
   <a href="https://github.com/deppbrazil/log">
-    <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/log.svg?color=brightgreen" />
+    <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/log.svg?color=black" />
   </a>
 </p>
 
@@ -32,15 +32,15 @@
 <p align="center">
   <!-- Contributors -->
   <a href="https://github.com/deppbrazil/log/graphs/contributors">
-    <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/log.svg?color=blue" />
+    <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/log.svg?color=black" />
   </a>
   <!-- Language count -->
   <a href="https://github.com/deppbrazil/log">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/log.svg" />
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/log.svg?color=black" />
   </a>
   <!-- License -->
   <a href="./LICENSE">
-    <img alt="Software License" src="https://img.shields.io/badge/license-MIT-blue.svg">
+    <img alt="Software License" src="https://img.shields.io/badge/license-MIT-blue.svg?color=black">
   </a>
 </p>
 
