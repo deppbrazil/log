@@ -26,9 +26,9 @@
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/log.svg">
   </a>
   <!-- Repo size -->
-  <!-- <a href="https://github.com/deppbrazil/repository-patterns">
-    <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=brightgreen" />
-  </a> -->
+  <a href="https://github.com/deppbrazil/log">
+    <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/log.svg?color=brightgreen" />
+  </a>
 <!-- </p> -->
 
 <!-- Seconds badges -->
