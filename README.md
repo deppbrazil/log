@@ -39,9 +39,9 @@
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/log.svg" />
   </a>
   <!-- License -->
-  <!-- <a href="./LICENSE">
+  <a href="./LICENSE">
     <img alt="Software License" src="https://img.shields.io/badge/license-MIT-blue.svg">
-  </a> -->
+  </a>
 </p>
 
 ## State
