@@ -22,9 +22,9 @@
     <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/c006e02f4f684b90b84417985a85a4f7"/>
   </a>
   <!-- Last commit -->
-  <!-- <a href="https://github.com/deppbrazil/repository-patterns/commits/master">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/repository-patterns.svg">
-  </a> -->
+  <a href="https://github.com/deppbrazil/log/commits/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/log.svg">
+  </a>
   <!-- Repo size -->
   <!-- <a href="https://github.com/deppbrazil/repository-patterns">
     <img alt="Repo size" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=brightgreen" />
