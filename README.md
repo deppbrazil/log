@@ -35,9 +35,9 @@
     <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/log.svg?color=blue" />
   </a>
   <!-- Language count -->
-  <!-- <a href="https://github.com/deppbrazil/repository-patterns">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
-  </a> -->
+  <a href="https://github.com/deppbrazil/log">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/deppbrazil/log.svg" />
+  </a>
   <!-- License -->
   <!-- <a href="./LICENSE">
     <img alt="Software License" src="https://img.shields.io/badge/license-MIT-blue.svg">
