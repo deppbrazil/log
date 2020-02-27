@@ -1,14 +1,15 @@
-# 🏴‍☠ Registro
+# 🏴‍☠ Registro [![Doações](https://img.shields.io/badge/Doações-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)
+
 
 <!-- Traduzir -->
 <a href="./README.md">
-  <img alt="Leia-me" src="https://img.shields.io/badge/Versão_original-en-black.svg">
+  <img alt="Traduzir" src="https://img.shields.io/badge/Versão_original-en-black.svg">
 </a>
 
 <!-- Banner -->
 <p align="center">
   <a id="home" href="https://github.com/deppbrazil/log" target="_blank" >
-    <img alt="Banner de Bandeira com Caveira" src="./.github/assets/banner-pirate.svg" width="100%"/>
+    <img alt="Banner" src="./.github/assets/banner-pirate.svg" width="100%"/>
   </a>
 </p>
 
@@ -16,7 +17,7 @@
 <p align="center">
   <!-- Codacy -->
   <a href="https://www.codacy.com/manual/deppbrazil/log?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deppbrazil/log&amp;utm_campaign=Badge_Grade">
-    <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/c006e02f4f684b90b84417985a85a4f7"/>
+    <img alt="Qualidade do código" src="https://api.codacy.com/project/badge/Grade/c006e02f4f684b90b84417985a85a4f7"/>
   </a>
   <!-- Último commit -->
   <a href="https://github.com/deppbrazil/log/commits/master">
@@ -40,7 +41,7 @@
   </a>
   <!-- Licença -->
   <a href="./LICENSE">
-    <img alt="Licença de Software" src="https://img.shields.io/badge/license-MIT-blue.svg?color=black">
+    <img alt="Licença do Software" src="https://img.shields.io/badge/license-MIT-blue.svg?color=black">
   </a>
 </p>
 

@@ -1,14 +1,14 @@
-# 🏴‍☠ Log
+# 🏴‍☠ Log [![Donate](https://img.shields.io/badge/Donate-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)
 
 <!-- Translate -->
 <a href="./README-pt-br.md">
-  <img alt="Readme" src="https://img.shields.io/badge/Translate-pt--br-black.svg">
+  <img alt="Translate" src="https://img.shields.io/badge/Translate-pt--br-black.svg">
 </a>
 
 <!-- Banner -->
 <p align="center">
   <a id="home" href="https://github.com/deppbrazil/log" target="_blank" >
-    <img alt="Banner Skull Flag" src="./.github/assets/banner-pirate.svg" width="100%"/>
+    <img alt="Banner" src="./.github/assets/banner-pirate.svg" width="100%"/>
   </a>
 </p>
 
