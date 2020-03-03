@@ -101,7 +101,6 @@
     -   💰 Lay aside R$10 per day = ✅
     -   :octocat: Contribute to Github = ✅
 
-
 -   🚩 **Saturday** - 29/02/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
