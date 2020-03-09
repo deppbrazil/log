@@ -67,7 +67,6 @@
 -   🍎 Comer fruta
 -   💧 Beber 2L de água por dia
 -   💰 Poupar R$10 por dia
--   :octocat: Contribuição no Github
 
 ## [📅 Janeiro](./2020/january)
 
