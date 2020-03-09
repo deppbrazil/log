@@ -23,4 +23,3 @@
     -   🍎 Eating a fruit = ❌
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
-    -   :octocat: Contribute to Github = ❌

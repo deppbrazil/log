@@ -23,7 +23,6 @@
     -   🍎 Eating a fruit = ❌
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
-    -   :octocat: Contribute to Github = ❌
 
 -   🚩 **Sunday** - 02/02/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
@@ -42,4 +41,3 @@
     -   🍎 Eating a fruit = ❌
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
-    -   :octocat: Contribute to Github = ❌
