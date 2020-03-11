@@ -87,7 +87,8 @@
 ## [📅 March](./2020/march)
 
 -   [Week1](./2020/march/week1.md)
--   [Week2](./2020/march/week2.md) `📌Current`
+-   [Week2](./2020/march/week2.md)
+-   [Week3](./2020/march/week3.md) `📌Current`
 
 ## Emojis
 
