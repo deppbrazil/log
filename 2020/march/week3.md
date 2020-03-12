@@ -6,7 +6,7 @@
 
 ## 📌 Week 3
 
--   🚩 **Monday** - 02/03/2020
+-   🚩 **Monday** - 09/03/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ✅
@@ -24,7 +24,7 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Tuesday** - 03/03/2020
+-   🚩 **Tuesday** - 10/03/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -42,7 +42,7 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Wednesday** - 04/03/2020
+-   🚩 **Wednesday** - 11/03/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -60,14 +60,14 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Thursday** - 05/03/2020
+-   🚩 **Thursday** - 12/03/2020
     -   ...
 
--   🚩 **Friday** - 06/03/2020
+-   🚩 **Friday** - 13/03/2020
     -   ...
 
--   🚩 **Saturday** - 07/03/2020
+-   🚩 **Saturday** - 14/03/2020
     -   ...
 
--   🚩 **Sunday** - 08/03/2020
+-   🚩 **Sunday** - 15/03/2020
     -   ...
