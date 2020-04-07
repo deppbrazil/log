@@ -70,28 +70,33 @@
 
 ## [📅 Janeiro](./2020/january)
 
--   [Week1](./2020/january/week1.md)
--   [Week2](./2020/january/week2.md)
--   [Week3](./2020/january/week3.md)
--   [Week4](./2020/january/week4.md)
--   [Week5](./2020/january/week5.md)
+-   [Semana1](./2020/january/week1.md)
+-   [Semana2](./2020/january/week2.md)
+-   [Semana3](./2020/january/week3.md)
+-   [Semana4](./2020/january/week4.md)
+-   [Semana5](./2020/january/week5.md)
 
 ## [📅 February](./2020/february)
 
--   [Week1](./2020/february/week1.md)
--   [Week2](./2020/february/week2.md)
--   [Week3](./2020/february/week3.md)
--   [Week3](./2020/february/week4.md)
--   [Week5](./2020/february/week5.md)
+-   [Semana1](./2020/february/week1.md)
+-   [Semana2](./2020/february/week2.md)
+-   [Semana3](./2020/february/week3.md)
+-   [Semana4](./2020/february/week4.md)
+-   [Semana5](./2020/february/week5.md)
 
-## [📅 March](./2020/march)
+## [📅 Março](./2020/march)
 
--   [Week1](./2020/march/week1.md)
--   [Week2](./2020/march/week2.md)
--   [Week3](./2020/march/week3.md)
--   [Week4](./2020/march/week4.md)
--   [Week5](./2020/march/week5.md)
--   [Week6](./2020/march/week6.md) `📌Current`
+-   [Semana1](./2020/march/week1.md)
+-   [Semana2](./2020/march/week2.md)
+-   [Semana3](./2020/march/week3.md)
+-   [Semana4](./2020/march/week4.md)
+-   [Semana5](./2020/march/week5.md)
+-   [Semana6](./2020/march/week6.md)
+
+## [📅 Abril](./2020/april)
+
+-   [Semana1](./2020/april/week1.md)
+-   [Semana2](./2020/april/week2.md) `📌Atual`
 
 ## Emojis
 
