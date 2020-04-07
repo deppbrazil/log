@@ -102,6 +102,11 @@
 
 -   [Empjipedia](http://emojipedia.com.br/)
 
+## Styleguide para commits
+
+-   [en](https://gist.github.com/deppbrazil/b507572e8699bc9f04c3f5f4823ecbc1)
+-   [pt-br](https://gist.github.com/deppbrazil/d22e4267294a4ed2664f1b71fc80f1e6)
+
 ## Licença
 
 -   [MIT](./LICENSE) © Mir Carvalho
