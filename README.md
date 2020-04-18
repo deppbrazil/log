@@ -99,7 +99,8 @@
 ## [📅 April](./2020/april)
 
 -   [Week1](./2020/april/week1.md)
--   [Week2](./2020/april/week2.md) `📌Current`
+-   [Week2](./2020/april/week2.md)
+-   [Week3](./2020/april/week3.md) `📌Current`
 
 ## Emojis
 
