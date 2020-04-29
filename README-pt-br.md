@@ -97,7 +97,9 @@
 
 -   [Semana1](./2020/april/week1.md)
 -   [Semana2](./2020/april/week2.md)
--   [Semana3](./2020/april/week3.md) `📌Atual`
+-   [Semana3](./2020/april/week3.md)
+-   [Semana4](./2020/april/week4.md) `📌Atual`
+
 
 ## Emojis
 

@@ -4,63 +4,9 @@
 
 ✅ ❌
 
-## 📌 Week 3
+## 📌 Week 4
 
--   🚩 **Monday** - 13/04/2020
-    -   ⏰ Get up as 6 o’clock a.m = ✅
-    -   🙏 5" minutes of meditation = ❌
-    -   💪 Practice exercises = ❌
-    -   📊 Study investiment = ✅
-    -   📱 Study technology = ✅
-    -   🌎 Study english = ❌
-    -   ✏️ Write an article or post = ❌
-    -   🎧 Listen to music = ✅
-    -   🎙 Listen to podcast = ❌
-    -   🖌 Drawing = ❌
-    -   📕 Read book = ❌
-    -   📃 Read article = ❌
-    -   🍕 Lunch without drinking = ✅
-    -   🍎 Eating a fruit = ✅
-    -   💧 Drinking 2L of water per day = ✅
-    -   💰 Lay aside R$10 per day = ✅
-
--   🚩 **Tuesday** - 14/04/2020
-    -   ⏰ Get up as 6 o’clock a.m = ✅
-    -   🙏 5" minutes of meditation = ❌
-    -   💪 Practice exercises = ❌
-    -   📊 Study investiment = ✅
-    -   📱 Study technology = ✅
-    -   🌎 Study english = ❌
-    -   ✏️ Write an article or post = ❌
-    -   🎧 Listen to music = ❌
-    -   🎙 Listen to podcast = ❌
-    -   🖌 Drawing = ❌
-    -   📕 Read book = ❌
-    -   📃 Read article = ❌
-    -   🍕 Lunch without drinking = ❌
-    -   🍎 Eating a fruit = ✅
-    -   💧 Drinking 2L of water per day = ✅
-    -   💰 Lay aside R$10 per day = ✅
-
--   🚩 **Wednesday** - 15/04/2020
-    -   ⏰ Get up as 6 o’clock a.m = ❌
-    -   🙏 5" minutes of meditation = ❌
-    -   💪 Practice exercises = ❌
-    -   📊 Study investiment = ❌
-    -   📱 Study technology = ❌
-    -   🌎 Study english = ❌
-    -   ✏️ Write an article or post = ❌
-    -   🎧 Listen to music = ❌
-    -   🎙 Listen to podcast = ❌
-    -   🖌 Drawing = ❌
-    -   📕 Read book = ❌
-    -   📃 Read article = ❌
-    -   🍕 Lunch without drinking = ❌
-    -   🍎 Eating a fruit = ❌
-    -   💧 Drinking 2L of water per day = ✅
-    -   💰 Lay aside R$10 per day = ✅
-
--   🚩 **Thursday** - 16/04/2020
+-   🚩 **Monday** - 20/04/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -74,11 +20,11 @@
     -   📕 Read book = ❌
     -   📃 Read article = ❌
     -   🍕 Lunch without drinking = ❌
-    -   🍎 Eating a fruit = ✅
+    -   🍎 Eating a fruit = ❌
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Friday** - 17/04/2020
+-   🚩 **Tuesday** - 21/04/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -96,7 +42,7 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Saturday** - 18/04/2020
+-   🚩 **Wednesday** - 22/04/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -114,7 +60,61 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Sunday** - 19/04/2020
+-   🚩 **Thursday** - 23/04/2020
+    -   ⏰ Get up as 6 o’clock a.m = ❌
+    -   🙏 5" minutes of meditation = ❌
+    -   💪 Practice exercises = ❌
+    -   📊 Study investiment = ❌
+    -   📱 Study technology = ❌
+    -   🌎 Study english = ❌
+    -   ✏️ Write an article or post = ❌
+    -   🎧 Listen to music = ❌
+    -   🎙 Listen to podcast = ❌
+    -   🖌 Drawing = ❌
+    -   📕 Read book = ❌
+    -   📃 Read article = ❌
+    -   🍕 Lunch without drinking = ❌
+    -   🍎 Eating a fruit = ❌
+    -   💧 Drinking 2L of water per day = ❌
+    -   💰 Lay aside R$10 per day = ✅
+
+-   🚩 **Friday** - 24/04/2020
+    -   ⏰ Get up as 6 o’clock a.m = ❌
+    -   🙏 5" minutes of meditation = ❌
+    -   💪 Practice exercises = ❌
+    -   📊 Study investiment = ❌
+    -   📱 Study technology = ❌
+    -   🌎 Study english = ❌
+    -   ✏️ Write an article or post = ❌
+    -   🎧 Listen to music = ❌
+    -   🎙 Listen to podcast = ❌
+    -   🖌 Drawing = ❌
+    -   📕 Read book = ❌
+    -   📃 Read article = ❌
+    -   🍕 Lunch without drinking = ❌
+    -   🍎 Eating a fruit = ❌
+    -   💧 Drinking 2L of water per day = ❌
+    -   💰 Lay aside R$10 per day = ✅
+
+-   🚩 **Saturday** - 25/04/2020
+    -   ⏰ Get up as 6 o’clock a.m = ❌
+    -   🙏 5" minutes of meditation = ❌
+    -   💪 Practice exercises = ❌
+    -   📊 Study investiment = ❌
+    -   📱 Study technology = ❌
+    -   🌎 Study english = ❌
+    -   ✏️ Write an article or post = ❌
+    -   🎧 Listen to music = ❌
+    -   🎙 Listen to podcast = ❌
+    -   🖌 Drawing = ❌
+    -   📕 Read book = ❌
+    -   📃 Read article = ❌
+    -   🍕 Lunch without drinking = ❌
+    -   🍎 Eating a fruit = ❌
+    -   💧 Drinking 2L of water per day = ❌
+    -   💰 Lay aside R$10 per day = ✅
+
+-   🚩 **Sunday** - 26/04/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
