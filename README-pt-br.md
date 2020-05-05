@@ -1,12 +1,13 @@
 # 🏴‍☠ Registro [![Doações](https://img.shields.io/badge/Doações-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)
 
-
 <!-- Traduzir -->
+
 <a href="./README.md">
   <img alt="Traduzir" src="https://img.shields.io/badge/Versão_original-en-black.svg">
 </a>
 
 <!-- Banner -->
+
 <p align="center">
   <a id="home" href="https://github.com/deppbrazil/log" target="_blank" >
     <img alt="Banner" src="./.github/assets/banner-pirate.svg" width="100%"/>
@@ -14,6 +15,7 @@
 </p>
 
 <!-- Primeiros badges -->
+
 <p align="center">
   <!-- Codacy -->
   <a href="https://www.codacy.com/manual/deppbrazil/log?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deppbrazil/log&amp;utm_campaign=Badge_Grade">
@@ -30,6 +32,7 @@
 </p>
 
 <!-- Segundos badges -->
+
 <p align="center">
   <!-- Contribuidores -->
   <a href="https://github.com/deppbrazil/log/graphs/contributors">
