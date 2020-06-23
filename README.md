@@ -114,7 +114,8 @@
 
 ## [📅 June](./2020/june)
 -   [Week1](./2020/june/week1.md)
--   [Week2](./2020/june/week2.md) `📌Current`
+-   [Week2](./2020/june/week2.md)
+-   [Week3](./2020/june/week3.md) `📌Current`
 
 ## Emojis
 
