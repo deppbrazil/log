@@ -127,7 +127,8 @@
 -   [Semana5](./2020/july/week5.md)
 
 ## [📅 Agosto](./2020/august)
--   [Semana1](./2020/august/week1.md) `📌Atual`
+-   [Semana1](./2020/august/week1.md)
+-   [Semana2](./2020/august/week2.md) `📌Atual`
 
 ## Emojis
 
