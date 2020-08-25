@@ -56,7 +56,7 @@
 
 -   ⏰ Get up as 6 o’clock a.m
 -   🙏 5" minutes of meditation
--   💪 Practice exercises 
+-   💪 Practice exercises
 -   📊 Study investiment
 -   📱 Study technology
 -   🌎 Study english
@@ -65,7 +65,7 @@
 -   🎙 Listen to podcast
 -   🖌 Drawing
 -   📕 Read book
--   📃 Read article 
+-   📃 Read article
 -   🍕 Lunch without drinking
 -   🍎 Eating a fruit
 -   💧 Drinking 2L of water per day
@@ -123,7 +123,8 @@
 -   [Week1](./2020/july/week1.md)
 -   [Week2](./2020/july/week2.md)
 -   [Week3](./2020/july/week3.md)
--   [Week4](./2020/july/week4.md) `📌Current`
+-   [Week4](./2020/july/week4.md)
+-   [Week5](./2020/july/week5.md) `📌Current`
 
 ## Emojis
 
