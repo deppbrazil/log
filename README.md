@@ -132,7 +132,10 @@
 -   [Week3](./2020/august/week3.md)
 -   [Week4](./2020/august/week4.md)
 -   [Week5](./2020/august/week5.md)
--   [Week6](./2020/august/week6.md) `📌Current`
+-   [Week6](./2020/august/week6.md)
+
+## [📅 Setember](./2020/setember)
+-   [Week1](./2020/setember/week1.md) `📌Current`
 
 ## Emojis
 
