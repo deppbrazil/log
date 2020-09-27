@@ -113,6 +113,7 @@
 -   [Semana5](./2020/may/week5.md)
 
 ## [📅 Junho](./2020/june)
+
 -   [Semana1](./2020/june/week1.md)
 -   [Semana2](./2020/june/week2.md)
 -   [Semana3](./2020/june/week3.md)
@@ -120,6 +121,7 @@
 -   [Semana5](./2020/june/week5.md)
 
 ## [📅 Julho](./2020/july)
+
 -   [Semana1](./2020/july/week1.md)
 -   [Semana2](./2020/july/week2.md)
 -   [Semana3](./2020/july/week3.md)
@@ -127,6 +129,7 @@
 -   [Semana5](./2020/july/week5.md)
 
 ## [📅 Agosto](./2020/august)
+
 -   [Semana1](./2020/august/week1.md)
 -   [Semana2](./2020/august/week2.md)
 -   [Semana3](./2020/august/week3.md)
@@ -135,9 +138,10 @@
 -   [Semana6](./2020/august/week6.md)
 
 ## [📅 Setembro](./2020/setember)
--   [Semana1](./2020/setember/week1.md)
--   [Semana2](./2020/setember/week2.md) `📌Atual`
 
+-   [Semana1](./2020/setember/week1.md)
+-   [Semana2](./2020/setember/week2.md)
+-   [Semana3](./2020/setember/week3.md) `📌Atual`
 
 ## Emojis
 
