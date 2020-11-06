@@ -143,7 +143,7 @@
 -   [Week2](./2020/setember/week2.md)
 -   [Week3](./2020/setember/week3.md)
 -   [Week4](./2020/setember/week4.md)
--   [Week5](./2020/setember/week5.md) `📌Current`
+-   [Week5](./2020/setember/week5.md)
 
 ## [📅 October](./2020/october)
 
