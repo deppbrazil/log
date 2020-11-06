@@ -114,5 +114,5 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Sunday** - 20/09/2020
+-   🚩 **Sunday** - 27/09/2020
     -   ...
