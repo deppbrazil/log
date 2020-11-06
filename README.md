@@ -147,7 +147,8 @@
 
 ## [📅 October](./2020/october)
 
--   [Semana1](./2020/october/week1.md) `📌Current`
+-   [Semana1](./2020/october/week1.md)
+-   [Semana2](./2020/october/week2.md) `📌Current`
 
 ## Emojis
 
