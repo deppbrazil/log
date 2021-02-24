@@ -155,7 +155,8 @@
 
 ## [📅 November](./2020/november)
 
--   [Week1](./2020/november/week1.md) `📌Current`
+-   [Week1](./2020/november/week1.md)
+-   [Week2](./2020/november/week2.md) `📌Current`
 
 ## Emojis
 
