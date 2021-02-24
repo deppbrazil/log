@@ -153,14 +153,18 @@
 -   [Semana4](./2020/october/week4.md)
 -   [Semana5](./2020/october/week5.md)
 
-## [📅 November](./2020/november)
+## [📅 Novembro](./2020/november)
 
 -   [Semana1](./2020/november/week1.md)
 -   [Semana2](./2020/november/week2.md)
 -   [Semana3](./2020/november/week3.md)
 -   [Semana4](./2020/november/week4.md)
 -   [Semana5](./2020/november/week5.md)
--   [Semana6](./2020/november/week6.md) `📌Atual`
+-   [Semana6](./2020/november/week6.md)
+
+## [📅 Dezembro](./2020/december)
+
+-   [Semana1](./2020/december/week1.md) `📌Atual`
 
 ## Emojis
 

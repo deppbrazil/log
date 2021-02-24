@@ -160,7 +160,11 @@
 -   [Week3](./2020/november/week3.md)
 -   [Week4](./2020/november/week4.md)
 -   [Week5](./2020/november/week5.md)
--   [Week6](./2020/november/week6.md) `📌Current`
+-   [Week6](./2020/november/week6.md)
+
+## [📅 December](./2020/december)
+
+-   [Week1](./2020/december/week1.md) `📌Current`
 
 ## Emojis
 
