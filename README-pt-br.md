@@ -157,7 +157,8 @@
 
 -   [Semana1](./2020/november/week1.md)
 -   [Semana2](./2020/november/week2.md)
--   [Semana3](./2020/november/week3.md) `📌Atual`
+-   [Semana3](./2020/november/week3.md)
+-   [Semana4](./2020/november/week4.md) `📌Atual`
 
 ## Emojis
 
