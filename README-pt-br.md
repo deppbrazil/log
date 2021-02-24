@@ -153,6 +153,10 @@
 -   [Semana4](./2020/october/week4.md)
 -   [Semana5](./2020/october/week5.md) `📌Atual`
 
+## [📅 November](./2020/november)
+
+-   [Semana1](./2020/november/week1.md)
+
 ## Emojis
 
 -   [Empjipedia](http://emojipedia.com.br/)
