@@ -164,7 +164,8 @@
 
 ## [📅 Dezembro](./2020/december)
 
--   [Semana1](./2020/december/week1.md) `📌Atual`
+-   [Semana1](./2020/december/week1.md)
+-   [Semana2](./2020/december/week2.md) `📌Atual`
 
 ## Emojis
 
