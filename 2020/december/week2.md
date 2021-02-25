@@ -6,7 +6,7 @@
 
 ## 📌 Week 2
 
--   🚩 **Monday** - 07/11/2020
+-   🚩 **Monday** - 07/12/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -24,7 +24,7 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Tuesday** - 08/11/2020
+-   🚩 **Tuesday** - 08/12/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -42,7 +42,7 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Wednesday** - 09/11/2020
+-   🚩 **Wednesday** - 09/12/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -60,7 +60,7 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Thursday** - 10/11/2020
+-   🚩 **Thursday** - 10/12/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -78,7 +78,7 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Friday** - 11/11/2020
+-   🚩 **Friday** - 11/12/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -96,7 +96,7 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Saturday** - 12/11/2020
+-   🚩 **Saturday** - 12/12/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
@@ -114,7 +114,7 @@
     -   💧 Drinking 2L of water per day = ❌
     -   💰 Lay aside R$10 per day = ✅
 
--   🚩 **Sunday** - 13/11/2020
+-   🚩 **Sunday** - 13/12/2020
     -   ⏰ Get up as 6 o’clock a.m = ❌
     -   🙏 5" minutes of meditation = ❌
     -   💪 Practice exercises = ❌
